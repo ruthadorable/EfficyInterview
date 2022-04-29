@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.12.0-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/JavaLibraries/commons-lang3-3.12.0/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/JavaLibraries/commons-lang3-3.12.0/commons-lang3-3.12.0-tests.jar!/" />
+      <root url="jar://$USER_HOME$/JavaLibraries/servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/JavaLibraries/commons-lang3-3.12.0/commons-lang3-3.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/JavaLibraries/commons-lang3-3.12.0/commons-lang3-3.12.0-test-sources.jar!/" />
+      <root url="jar://$USER_HOME$/JavaLibraries/commons-lang3-3.12.0/commons-lang3-3.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
